@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de arquivo README.md específico para um notebook:
  # Classificador de Texto Avançado - Notebook
  Este é um exemplo de notebook para construir um classificador de texto avançado usando Python. O classificador utiliza técnicas de processamento de texto e aprendizado de máquina para realizar a classificação de frases em diferentes categorias.
  ## Pré-requisitos
